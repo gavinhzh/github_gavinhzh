@@ -1,1 +1,2 @@
 test command
+test add command
